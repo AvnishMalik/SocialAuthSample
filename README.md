@@ -1,2 +1,0 @@
-# SocialAuthSample
-Created with CodeSandbox
